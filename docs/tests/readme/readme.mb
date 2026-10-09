@@ -1,0 +1,57 @@
+# Encabezado H1
+## Encabezado H2
+### Encabezado H3
+#### Encabezado H4
+##### Encabezado H5
+###### Encabezado H6
+
+## Texto
+Este es texto **negrita**.
+Este es texto *cursiva*.
+Este es texto ***negrita y cursiva***.
+Este es texto ~~tachado~~.
+
+## Listas
+
+### Lista desordenada
+- Elemento 1
+- Elemento 2
+  - Subelemento 2.1
+  - Subelemento 2.2
+- Elemento 3
+
+### Lista ordenada
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+## Enlaces e imágenes
+[Enlace a Google](https://www.google.com)
+![Descripción de imagen](9730502.png)
+
+## Bloques de código
+`código en línea`
+
+```javascript
+function hola() {
+  console.log("Hola Mundo");
+}
+```
+
+## Citas
+> Esta es una cita
+> Segunda línea de la cita
+
+## Línea horizontal
+---
+
+## Tablas
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato 4    | Dato 5    | Dato 6    |
+
+## Listas de verificación
+- [x] Tarea completada
+- [ ] Tarea pendiente
+- [ ] Otra tarea pendiente
